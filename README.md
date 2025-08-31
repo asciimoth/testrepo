@@ -1,6 +1,6 @@
 # ASCIIMoth's repo
-- [/deb](/deb) - [deb repo](#deb)
-- [/rpm](/rpm) - [rpm repo](#rpm)
+- [/deb](https://asciimoth.github.io/testrepo/deb) - [deb repo](#deb)
+- [/rpm](https://asciimoth.github.io/testrepo/rpm) - [rpm repo](#rpm)
 
 # DEB
 To add this repo to your system:
