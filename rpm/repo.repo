@@ -1,4 +1,4 @@
-[testrepo]
+[asciimoth]
 name=asciimoth
 baseurl=https://asciimoth.github.io/testrepo/rpm
 enabled=1
