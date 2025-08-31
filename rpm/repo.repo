@@ -1,0 +1,7 @@
+[testrepo]
+name=asciimoth
+baseurl=https://asciimoth.github.io/testrepo/rpm
+enabled=1
+gpgcheck=1
+gpgkey=https://asciimoth.github.io/testrepo/KEY.gpg
+
