@@ -19,6 +19,8 @@
         buildInputs = [
           pkgs.dpkg
           pkgs.apt
+          pkgs.createrepo_c
+          pkgs.rpm
           pkgs.gzip
         ];
       };
