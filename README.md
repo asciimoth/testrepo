@@ -11,7 +11,11 @@ sudo apt update
 Or just run `curl https://asciimoth.github.io/testrepo/deb/setup.sh | bash`
 
 # RPM
-TODO
+To add this repo to your system:
+```sh
+curl https://asciimoth.github.io/testrepo/rpm/repo.repo | sudo tee /etc/yum.repos.d/asciimoth.repo
+sudo dnf clean all
+```
 
-
+Or just run `curl https://asciimoth.github.io/testrepo/rpm/setup.sh | bash`
 
