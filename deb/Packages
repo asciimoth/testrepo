@@ -1,0 +1,18 @@
+Package: gotestprjtmpl
+Version: 0.3.1
+Architecture: amd64
+Maintainer: John Doe <jdoe@example.com>
+Installed-Size: 1404
+Depends: bash
+Recommends: git
+Filename: pool/gotestprjtmpl_0.3.1_linux_amd64.deb
+Size: 652726
+MD5sum: 92d8e85d1ddc6e94100b94cc2eaece0d
+SHA1: 6b5f60fd65092a97aa48644dbf6d261f18b6c940
+SHA256: 8ee9d142bef3062438862515f44e6a061459bdef2af123177148d4e9894f6e21
+Section: default
+Priority: optional
+Homepage: https://example.com/
+Description: Usefull tool
+License: Apache OR MIT
+
