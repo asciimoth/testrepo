@@ -22,6 +22,8 @@
           pkgs.createrepo_c
           pkgs.rpm
           pkgs.gzip
+          pkgs.yq
+          pkgs.gomplate
         ];
       };
     });

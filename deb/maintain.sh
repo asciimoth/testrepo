@@ -9,7 +9,7 @@ cd "$(dirname "$(realpath "$0")")"
 mkdir -p deb/pool
 
 # (Re)generate packages file
-dpkg-scanpackages pool /dev/null > Packages
+dpkg-scanpackages -m pool /dev/null > Packages
 
 # (Re)generate release file
 apt-ftparchive -c apt-ftparchive.conf release . > Release

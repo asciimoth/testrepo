@@ -1,20 +1,20 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Tue, 02 Sep 2025 13:20:50 +0000
+Date: Wed, 03 Sep 2025 12:43:47 +0000
 Description: My personal APT repo
 Label: asciimoth
 Origin: asciimoth
 Suite: stable
 MD5Sum:
- dd9ae2869ac3b0a1eb7f0e5e4470b377              491 Packages
- cb1a9a0d9806543ac219f8cb0c8f9cab              174 Release
+ 9e72a4ad8de576191335004a29fbfecf             1964 Packages
+ b404e7a56c9d58dcf039ab74488bc6af              174 Release
 SHA1:
- 2e8d704e30219e90332ab1656b45ffe2afcc0da3              491 Packages
- 0d14e2008c12e28fa3294a0357a9f4b4a84611e5              174 Release
+ 361dfef8fa4912a0bc04b654f979873e74491904             1964 Packages
+ f1a841713a75a6fc7c3b4b183a58b6085c2ddfa4              174 Release
 SHA256:
- a4e68493510d12243cb710f9bbaf10a2658df4aa967b290ca90b70c4f9b72d40              491 Packages
- 5e51e94691c0589a97b0c7348824bb1da009b8cea160527ee220968b6b0a3ffe              174 Release
+ 22c5b5ec5bcf24b31918cf383bee56caf83d49cafd60157dd4ea6a5208a94efd             1964 Packages
+ 2cd083d30cf2a43cdc710255b80b6ef7f9ae454fe6f564b1f1c22e9700284624              174 Release
 SHA512:
- aaec7b3ca157172f76e0f30db73feaec12b3829496c10a27f619c8fd985493a1c811de46723d07802a8b51a8811c0da6400839c72cfe50edab072d3855ae950e              491 Packages
- 3bb8b9764c546a0d1d8d305264de4924c468f393c5c2d7248aad3eb0c8e4f63abc9de52eeb6473d5b7baa1391ec96640845e4eb1aed5bb465d86dc66f549fd01              174 Release
+ 1fd7e7f854f73aae0f07b7632ffb6291264298ea2fd26957d20737479213b7efc10bd2f3212aa30c27691681359cda5b4a85f3c04e6e10a416072e5fcd24fd3a             1964 Packages
+ 0b519ca2dfc78f948334ba6f821c5c2e7ce4f7722f63f4ac934782a96c3e2e89dc92e42248a41f6ed72c24c8317985120c7750339cb2e7a8ff78acdc3e2747c8              174 Release

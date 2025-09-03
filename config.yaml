@@ -1,0 +1,11 @@
+use_nix: true
+gpg: C5C84658CCFD7E8E71DEE933AF3AE54FC3A35C9F
+url: "https://asciimoth.github.io/testrepo"
+
+deb:
+  origin: "asciimoth"
+  label: "asciimoth"
+  suite: "stable"
+  codename: "stable"
+  description: "My personal APT repo"
+

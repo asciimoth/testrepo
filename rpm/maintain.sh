@@ -8,7 +8,7 @@ cd "$(dirname "$(realpath "$0")")"
 
 mkdir -p rpm/packages
 
-createrepo_c --update .
+createrepo_c .
 
 gpg --batch --yes --default-key "$GPG_KEY" --armor --detach-sign -o "repodata/repomd.xml.asc" "repodata/repomd.xml"
 
